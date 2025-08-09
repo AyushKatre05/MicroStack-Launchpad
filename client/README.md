@@ -1,0 +1,1 @@
+## This is an auth boiler plate written in typescript only for project of nextjs connected with mongodb database with Github and Google Oauth system with nodemailer for sending mail with any template design whichever you want.
